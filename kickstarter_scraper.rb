@@ -1,4 +1,4 @@
-rewuire 'pry'
+require 'pry'
 require 'nokogiri'
 
 
